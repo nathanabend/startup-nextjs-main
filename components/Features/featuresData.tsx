@@ -76,7 +76,7 @@ const featuresData: Feature[] = [
     ),
     title: "Invest",
     paragraph:
-      "We have simplified investments in technology such that in simple steps and with as low as $50, anyone can become an investor-partner at blockheath. We have multiple asset classes and these assets classses are determined by investment classes.",
+      "We have simplified investments in technology such that in simple steps and with as low as $500, anyone can become an investor-partner at blockheath. We have multiple asset classes and these assets classses are determined by investment classes.",
   },
   {
     id: 1,
