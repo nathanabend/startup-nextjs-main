@@ -209,9 +209,8 @@ const Footer = () => {
           <div className="container">
             <p className="text-center text-base text-body-color dark:text-white">
             
-             © 2023 blockheath.com. <a href="https://nextjstemplates.com" rel="nofollow noopener">All rights reserved</a>
-=======
-              © 2023 blockheath.com. <a href="https://blockheath.com" rel="nofollow noopener">All rights reserved</a>
+             
+            © 2023 blockheath.com. <a href="https://blockheath.com" rel="nofollow noopener">All rights reserved</a>
 
             </p>
           </div>
