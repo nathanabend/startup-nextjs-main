@@ -63,9 +63,9 @@ const Pricing = () => {
         <div className="grid grid-cols-1 gap-x-8 gap-y-10 md:grid-cols-2 lg:grid-cols-3">
           <PricingBox
             packageName="Micro"
-            price={isMonthly ? "100" : "120"}
+            price={isMonthly ? "500" : "120"}
             duration={isMonthly ? "" : ""}
-            subtitle="Micro asset class is minimum of $100 to $2,000."
+            subtitle="Micro asset class is minimum of $500 to $10,000."
           >
             <OfferList text="Earn 5.2% interest quarterly" status="active" />
             <OfferList text="Investment advisor" status="active" />
@@ -77,9 +77,9 @@ const Pricing = () => {
           </PricingBox>
           <PricingBox
             packageName="Standard"
-            price={isMonthly ? "2000" : "789"}
+            price={isMonthly ? "10,000" : "789"}
             duration={isMonthly ? "" : ""}
-            subtitle="Standard asset class is minimum of $2,000 to $10,000."
+            subtitle="Standard asset class is minimum of $10,000 to $60,000."
           >
             <OfferList text="Earn 5.8% interest quaterly" status="active" />
             <OfferList text="Investment advisor" status="active" />
@@ -91,9 +91,9 @@ const Pricing = () => {
           </PricingBox>
           <PricingBox
             packageName="Investor"
-            price={isMonthly ? "10000" : "999"}
+            price={isMonthly ? "60000" : "999"}
             duration={isMonthly ? "" : ""}
-            subtitle="Investor asset class is minimum of $10,000 to $500,000."
+            subtitle="Investor asset class is minimum of $60,000 to $500,000."
           >
             <OfferList text="Earn 7.3% interest quaterly" status="active" />
             <OfferList text="Investment advisor" status="active" />
