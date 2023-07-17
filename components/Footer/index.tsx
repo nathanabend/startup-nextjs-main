@@ -213,11 +213,10 @@ const Footer = () => {
                © 2023 blockheath.com. <a href="https://blockheath.com" rel="nofollow noopener">All rights reserved</a>
 
 
-<<<<<<< HEAD
+
            </p>
-=======
-            </p>
->>>>>>> 8eede6a1e27a2e06cda14ca39b135b94fcba3de9
+            
+
           </div>
         </div>
         <div className="absolute right-0 top-14 z-[-1]">
