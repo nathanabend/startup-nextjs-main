@@ -15,7 +15,7 @@ const Hero = () => {
                 data-wow-delay=".2s"
               >
                 <h1 className="mb-5 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight">
-                $44,248,948.93 invested in multiple asset classes across different projects
+                $12,836,941.12 borrowed backed by $62,285,399.62 in asset and collateral with 723 investors 
                 </h1>
                 <p className="mb-12 text-base font-medium !leading-relaxed text-body-color dark:text-white dark:opacity-90 sm:text-lg md:text-xl">
                 Blockheath offers anyone the opportunity to invest cryptocurrencies as assets in startups and projects. Investments are in different asset classes, an investor can take a loan and pay with the interest earned from their assets.
