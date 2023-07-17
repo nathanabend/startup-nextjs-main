@@ -207,13 +207,13 @@ const Footer = () => {
         </div>
         <div className="bg-primary/10 py-8">
           <div className="container">
-            {/*<p className="text-center text-base text-body-color dark:text-white">
+            <p className="text-center text-base text-body-color dark:text-white">
            
              
-            © 2023 blockheath.com. <a href="https://blockheath.com" rel="nofollow noopener">All rights reserved</a>
+               © 2023 blockheath.com. <a href="https://blockheath.com" rel="nofollow noopener">All rights reserved</a>
 
 
-  </p>*/}
+            </p>
           </div>
         </div>
         <div className="absolute right-0 top-14 z-[-1]">
