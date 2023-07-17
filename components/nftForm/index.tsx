@@ -5,7 +5,7 @@ import { useState } from 'react';
 import { getFirestore, collection, addDoc} from 'firebase/firestore';
 
 
-const nftForm = () => {
+const Nftform = () => {
 
   const [data, setData] = useState({
     name: '',
@@ -166,4 +166,4 @@ const nftForm = () => {
   );
 };
 
-export default nftForm;
+export default Nftform;
