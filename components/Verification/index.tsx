@@ -58,7 +58,7 @@ const Loan = () => {
             >
               <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:p-8 xl:p-9">
                     <p className="text-center text-base font-medium italic text-body-color">
-                    We adhere to our data protection <a style={{color: 'blue'}} href="www.google.com">policy</a> with strict compliance while processing data. Your information will only be utilized for Blockheath's internal verification process and will not be shared with any third party
+                    We adhere to our data protection <a style={{color: "blue"}} href="www.google.com">policy</a> with strict compliance while processing data. Your information will only be utilized for Blockheath&apos;s internal verification process and will not be shared with any third party
                     </p>
                     <span className="absolute left-0 top-0 z-[-1]">
                       <svg
@@ -223,7 +223,7 @@ const Loan = () => {
                         name="fname"
                         value={data.fname}
                         onChange={handleChange}
-                        placeholder="Enter first name"
+                        placeholder="Enter full name"
                         className="w-full rounded-md border border-transparent py-3 px-6 text-base text-body-color placeholder-body-color shadow-one outline-none focus:border-primary focus-visible:shadow-none dark:bg-[#242B51] dark:shadow-signUp"
                       />
                     </div>
