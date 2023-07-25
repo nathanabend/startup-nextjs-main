@@ -15,18 +15,13 @@ const Hero = () => {
                 data-wow-delay=".2s"
               >
                 <h1 className="mb-5 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight">
-<<<<<<< HEAD
+
                 $18,218,932.98 borrowed backed by $98,201,934.42 in asset and collateral with 748 investors
                 </h1>
                 <p className="mb-12 text-base font-medium !leading-relaxed text-body-color dark:text-white dark:opacity-90 sm:text-lg md:text-xl">
                 Blockheath offers anyone the opportunity to invest cryptocurrencies as assets in startups and projects. Investors can take a loan and pay with the interest earned. Nfts are accepted as collateral for loans.
-=======
-                $12,836,941.12 borrowed backed by $62,285,399.62 in asset and collateral with 723 investors 
-                </h1>
-                <p className="mb-12 text-base font-medium !leading-relaxed text-body-color dark:text-white dark:opacity-90 sm:text-lg md:text-xl">
-                Blockheath offers anyone the opportunity to invest cryptocurrencies as assets in startups and projects. Investors can take a loan and pay with the interest earned. Nfts are accepted as collateral for loans
->>>>>>> 3e9db642b63e91e393c8f3765853b3ec30feb19f
                 </p>
+               
                 <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
                   <Link
                     href="http://blockheath.com/loan"
