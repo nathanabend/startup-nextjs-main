@@ -14,23 +14,27 @@ const menuData: Menu[] = [
     newTab: false,
   },
   {
+    id: 8,
+    title: "Loan",
+    path: "/loan",
+    newTab: false,
+  },
+  {
     id: 3,
     title: "Invest",
     path: "/invest",
     newTab: false,
   },
-
-  {
-    id: 4,
-    title: "NFT",
-    path: "/nft",
-    newTab: false,
-  },
- 
   {
     id: 5,
     title: "Contact",
     path: "/contact",
+    newTab: false,
+  },
+  {
+    id: 4,
+    title: "",
+    path: "/nft",
     newTab: false,
   },
   {
@@ -45,6 +49,24 @@ const menuData: Menu[] = [
     path: "/nftloanform",
     newTab: false,
   },
+  {
+    id: 8,
+    title: "",
+    path: "/verification",
+    newTab: false,
+  },
+  {
+    id: 9,
+    title: "",
+    path: "/thanks",
+    newTab: false,
+  }, 
+  {
+    id: 10,
+    title: "",
+    path: "/policy",
+    newTab: false,
+  }, 
   
 ];
 
